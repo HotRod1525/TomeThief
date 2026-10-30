@@ -1,0 +1,12 @@
+Tome Thief, design changes
+
+Changes from original document:
+The completed game retains the original concept of vertically scrolling 2D platformer set in a magical library. The player climbs to a legendary tome, avoids environmental hazards, uses checkpoints, and can earn one of two endings based on collected pages. There are no enemies or combat.
+
+1. Collectible count: The original plan called for five missing pages. The completed game uses six pages. Collecting all six unlocks the special ending; otherwise, the normal ending plays.
+
+2. Level presentation: The one continuous level was organized into three visually distinct sections: Lower Library, Enchanted Library, and Forbidden Library. This made the climb feel like a progression through different parts of the library without adding separate levels.
+
+3. Art and hazards: The broad asset ideas in the design were developed into a witch character, library backgrounds, wooden platforms, spikes, and animated fire hazards. Free third-party art assets were used.
+
+4. Sound effects: The completed game includes sounds for jumping, losing a life, collecting pages, activating checkpoints, and reaching the legendary tome. The tome uses the same collection sound as the pages. No looping background music was added.
